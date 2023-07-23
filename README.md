@@ -7,6 +7,7 @@ The Pokeemerald Expansion is a collection of feature branches that can be integr
 ## What features are included?
 - Upgraded battle engine.
     - Fairy Type.
+    - Sound Type along with new sound moves and type matchups detailed by Wolfe Glick.
     - Physical/Special/Status Category Split.
     - New moves and abilities up to SwSh.
     - Options to change behaviors and data by generation.
